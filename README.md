@@ -1,7 +1,7 @@
 ### Regression-Machine-Learning
 A basic data classification project using Regression.
 
-### Tech Stack
+#### Tech Stack
 * Python
 * IDE: Spyder
 
